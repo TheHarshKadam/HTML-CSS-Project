@@ -1,1 +1,3 @@
-# HTML_CSS_IntroPage
+### LifeStyle Store
+
+A Basic Intro WebPage for E-commerce Website
