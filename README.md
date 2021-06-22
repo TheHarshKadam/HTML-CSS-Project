@@ -1,4 +1,4 @@
-# LifeStyle Store
+# HTML/CSS Project
 
 Web Page For Online LifeStyle Store
 
